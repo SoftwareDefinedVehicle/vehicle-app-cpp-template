@@ -19,6 +19,13 @@
             }
         },
         {
+            "type": "grpc-interface",
+            "config": {
+                "src": "src/proto/door.proto",
+                "provided": { }
+            }
+        },
+        {
             "type": "pubsub",
             "config": {
                 "reads": [ "sampleapp/getSpeed" ],
