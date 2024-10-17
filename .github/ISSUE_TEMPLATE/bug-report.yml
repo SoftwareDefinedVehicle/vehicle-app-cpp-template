@@ -13,6 +13,9 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 
+# Dummy change!
+
+
 name: 🐞 Bug Report
 description: Provide a general summary of the bug in the title below.
 title: "[Bug]: "
